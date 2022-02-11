@@ -5,7 +5,7 @@ This repository contains object detection module based on custom trained darknet
 
 ## Custom Data Folder
 
-It contains data, names and cfg files which were used to custom train a Yolo model. Here there are 2 custom cfg files corresponding to YOLOv3 and YOLOv3_tiny as both were used to test the accuracy and speed of object detection. YOLOv3 is slow but very accurate compared to YOLOv3_tiny where, speed is much faster but not so accurate. **Store your cfg files in this folder and whenever you need to access it from the module then draw that perticular cfg file just out of the folder or else change th edefault address of the cfg file in the module pointing to the file inside the folder**.
+It contains data, names and cfg files which were used to custom train a Yolo model. Here there are 2 custom cfg files corresponding to YOLOv3 and YOLOv3_tiny as both were used to test the accuracy and speed of object detection. YOLOv3 is slow but very accurate compared to YOLOv3_tiny where, speed is much faster but not so accurate. **Store your cfg files in this folder and whenever you need to access it from the module then draw that perticular cfg file just out of the folder or else change the default address of the cfg file in the module pointing to the file inside the folder**.
 
 ## customTrackYOLO
 
